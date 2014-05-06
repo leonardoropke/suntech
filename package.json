@@ -1,0 +1,24 @@
+{
+  "name": "suntech",
+  "version": "0.1.0",
+  "description": "Nodejs Module to integrate a GPS track device from suntech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/laroccathebrux/suntech.git"
+  },
+  "keywords": [
+    "suntech",
+    "gps",
+    "nodejs"
+  ],
+  "author": "Alessandro La Rocca Silveira <silveira.alessandro@infratrack.com.br> (http://www.infratrack.com.br/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laroccathebrux/suntech/issues"
+  },
+  "homepage": "https://github.com/laroccathebrux/suntech"
+}
